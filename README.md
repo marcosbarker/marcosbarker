@@ -1,5 +1,5 @@
 
-### Oi 👋 <img src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif" style="width: 20px;">
+### Oi 👋 <img width="20px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
 
 
 <!--
