@@ -1,5 +1,5 @@
 
-# Oi  <img width="50px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
+# Oi  <img width="80px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
 
 
 <!--
