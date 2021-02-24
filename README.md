@@ -1,10 +1,12 @@
+
+### Oi 👋 <img src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif" style="width: 20px;">
+
+
 <!--
-### Hi there 👋
+[<img width="65px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcos-paulo-marques-corr%C3%AAa-gomes-2794271b0/) [<img  width="63px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/playlist/2E8eRMA0qrYxQyzuFw0Xu7?si=FZyOXM4BTBWjF9JwaINgHQ)  [<img  width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcos_barker/?hl=pt-br)  [<img width="55px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:pgomes@faeterj-petropolis.edu.br) [<img width="70px" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:marcos_barker@hotmail.com) 
+-->
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcos-paulo-marques-corr%C3%AAa-gomes-2794271b0/)  [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/playlist/2E8eRMA0qrYxQyzuFw0Xu7?si=FZyOXM4BTBWjF9JwaINgHQ)  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcos_barker/?hl=pt-br)  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:pgomes@faeterj-petropolis.edu.br) [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:marcos_barker@hotmail.com) 
-
-
-
+ 
 
 <!--
 **marcosbarker/marcosbarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
