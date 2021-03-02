@@ -1,9 +1,7 @@
 
 [![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
-[<img src="https://giphy.com/embed/6iG7AvqmLXgTvay1dq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/dj-mixer-pioneer-6iG7AvqmLXgTvay1dq">via GIPHY</a></p>]
-
-
+<img https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif>
 
 
 <!--
