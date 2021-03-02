@@ -1,5 +1,5 @@
 
-[[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=marcos_barker&redirect=true">][https://spotify-github-profile.vercel.app/api/view.svg?uid=marcos_barker&cover_image=true&theme=compact)]]
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=marcos_barker&redirect=true">][https://spotify-github-profile.vercel.app/api/view.svg?uid=marcos_barker&cover_image=true&theme=compact)]
 
 
 
