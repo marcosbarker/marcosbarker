@@ -1,10 +1,8 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
+<center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)</center>
 
 ### Spotify Playing 🎧
 
-[<img src="dashboard-spotify-github.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/6886c9ddb3ac456d83bb7fb2bb7928ef)
 
-[![Spotify](https://marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
 <!--
 # Oi  <img width="100px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
