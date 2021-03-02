@@ -1,7 +1,7 @@
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif" />
 
-[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
+
+[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)   <img alt="GIF" height="170px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif" />
 
 
 <!--
