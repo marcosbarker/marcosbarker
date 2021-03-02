@@ -1,4 +1,4 @@
-[![Spotify](hhttps://dashboard-spotify-github-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
+[![Spotify](hhttps://dashboard-spotify-github-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/6886c9ddb3ac456d83bb7fb2bb7928ef)
 
 <!--
 # Oi  <img width="100px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
