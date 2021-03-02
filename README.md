@@ -1,6 +1,6 @@
 ### Spotify Playing 🎧
 
-[<img src="https://dashboard-spotify-github.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/6886c9ddb3ac456d83bb7fb2bb7928ef)
+[<img src="dashboard-spotify-github.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/6886c9ddb3ac456d83bb7fb2bb7928ef)
 
 [![Spotify](https://marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
