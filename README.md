@@ -1,7 +1,7 @@
 
 [![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
-<img https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif>
+<img src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">
 
 
 <!--
