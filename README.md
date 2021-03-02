@@ -1,5 +1,11 @@
 
-[![Spotify](https://marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
+[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
+
+[![Spotify](https://novatorem-git-master-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
+
+[![Spotify](https://novatorem-chi-murex.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
+
+[![Spotify](https://novatorem-112mqhct9-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
 
 
