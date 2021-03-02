@@ -1,20 +1,18 @@
 
 [![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
-[![Spotify](https://novatorem-git-master-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
-
-[![Spotify](https://novatorem-chi-murex.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
-
-[![Spotify](https://novatorem-112mqhct9-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 
 
 
+
+<!--
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
+****status spotify quadro grande.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true) 
 
-<!--
+
 # Oi  <img width="100px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
 
 
