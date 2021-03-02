@@ -1,7 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
 
 <!--
