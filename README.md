@@ -1,6 +1,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 # Oi  <img width="100px" src="https://github.com/marcosbarker/marcosbarker/blob/main/assets/babay_yoda.gif">
