@@ -1,6 +1,5 @@
-<center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)</center>
 
-### Spotify Playing 🎧
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=marcos_barker&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=marcos_barker&cover_image=true&theme=compact)]]
 
 
 
