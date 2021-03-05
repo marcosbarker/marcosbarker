@@ -3,6 +3,14 @@
 
 [![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)   <img alt="GIF" height="170px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif" />
 
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
+
 <!--
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=marcos_barker&redirect=true)
