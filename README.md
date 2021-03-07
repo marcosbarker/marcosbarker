@@ -10,6 +10,7 @@
 
 </br>
 
+[![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
