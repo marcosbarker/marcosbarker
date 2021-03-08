@@ -12,6 +12,8 @@
 
 [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3508%20lines%20of%20code-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -49,12 +51,6 @@ JavaScript               1 min               ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  4 hrs 34 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-marcosbarker             3 hrs 33 mins       ███████████████████░░░░░░   77.79% 
-Recriando a Interface do 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
-7- Media e Conceito-git  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-anmol098                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Windows                  4 hrs 34 mins       █████████████████████████   100.0%
