@@ -12,7 +12,7 @@
 
 [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3508%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3625%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -59,11 +59,11 @@ Linux                    52 mins             ███░░░░░░░░�
 **I Mostly Code in C++** 
 
 ```text
-C++                      19 repos            ████████████████████░░░░░   82.61% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Elixir                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+C++                      20 repos            ████████████████████░░░░░   83.33% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Elixir                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
 ```
 
