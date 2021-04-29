@@ -56,10 +56,10 @@ Linux                    3 hrs 3 mins        ██████░░░░░�
 <!--END_SECTION:waka-->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=c64dff,4dfcff,52fa5a&theme=graywhite)](https://github.com/marcosbarker/alura.imersaoDev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,52fa5a,ffc64d&theme=graywhite)](https://github.com/marcosbarker/alura.imersaoDados)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=c64dff,4dfcff,52fa5a&theme=graywhite)](https://github.com/marcosbarker/serratec.residencia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=0,52fa5a,ffc64d&theme=graywhite)](https://github.com/marcosbarker/NLW4-rocketpay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,239A3B,31C653,B0D959&theme=graywhite)](https://github.com/marcosbarker/alura.imersaoDev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDados&bg_color=B0D959,B0D959,7BD66D&theme=graywhite)](https://github.com/marcosbarker/alura.imersaoDados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=31C653,31C653,B0D959&theme=graywhite)](https://github.com/marcosbarker/serratec.residencia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=239A3B,B0D959,7BD66D&theme=graywhite)](https://github.com/marcosbarker/NLW4-rocketpay)
 
 
 
