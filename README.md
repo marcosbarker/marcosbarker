@@ -62,9 +62,8 @@ Linux                    8 mins              ░░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDados&bg_color=B0D959,B0D959,7BD66D&theme=graywhite)](https://github.com/marcosbarker/alura.imersaoDados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=31C653,31C653,B0D959&theme=graywhite)](https://github.com/marcosbarker/serratec.residencia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=239A3B,B0D959,7BD66D&theme=graywhite)](https://github.com/marcosbarker/NLW4-rocketpay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=31C653,31C653,B0D959&theme=graywhite)](https://github.com/marcosbarker/javaPOO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=readme-api-sotify&bg_color=239A3B,B0D959,7BD66D&theme=graywhite)](https://github.com/marcosbarker/readme-api-sotify)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=recreating.instagram.homepage&bg_color=31C653,31C653,B0D959&theme=graywhite)](https://github.com/marcosbarker/recreating.instagram.homepage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=netflix-simple-copy&bg_color=B0D959,B0D959,B0D959,31C653&theme=graywhite)](https://github.com/marcosbarker/netflix-simple-copy)
 
 
 
