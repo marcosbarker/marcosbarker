@@ -58,19 +58,19 @@ Linux                    8 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3AFC55,3AFC55,3B93E6&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,c64dff,3AFC55,3AFC55,3B93E6&theme=graywhite" />
 </a>  
 <a href="https://github.com/marcosbarker/alura.imersaoDados">  
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDados&bg_color=3B93E6,3B93E6,3AFC55&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/serratec.residencia">
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=3AFC55,3AFC55,3B93E6&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,c64dff,c64dff,3AFC55,3B93E6&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/NLW4-rocketpay">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=3B93E6,3B93E6,3AFC55,3AFC55&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/recreating.instagram.homepage">  
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=instagram.homepage&bg_color=3AFC55,3AFC55,3B93E6&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=instagram.homepage&bg_color=c64dff,c64dff,c64dff,3B93E6&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/netflix-simple-copy">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=netflix-simple-copy&bg_color=0,3B93E6,3B93E6,3AFC55&theme=graywhite" />
