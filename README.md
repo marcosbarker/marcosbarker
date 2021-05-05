@@ -12,7 +12,7 @@
 [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22162%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23090%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -43,13 +43,13 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Eclipse                  12 hrs 57 mins      ████████████░░░░░░░░░░░░░   50.25% 
-VS Code                  12 hrs 4 mins       ███████████░░░░░░░░░░░░░░   46.79% 
-IntelliJ                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-Android Studio           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+Eclipse                  15 hrs 24 mins      █████████████░░░░░░░░░░░░   51.91% 
+VS Code                  12 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   43.3% 
+Word                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+IntelliJ                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 💻 Operating System: 
-Windows                  25 hrs 47 mins      █████████████████████████   100.0%
+Windows                  29 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
