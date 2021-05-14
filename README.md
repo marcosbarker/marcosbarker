@@ -56,6 +56,7 @@ Windows                  29 hrs 40 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
+<img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=9e4c98&line=00e658&point=df82f2&area=true&hide_border=true" />
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
@@ -73,4 +74,4 @@ Windows                  29 hrs 40 mins      ███████████�
 </a>
 <a href="https://github.com/marcosbarker/netflix-simple-copy">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=netflix-simple-copy&bg_color=0,52fa5a,ffc64d,ffc64d&theme=graywhite" />
-</a>  
+</a>
