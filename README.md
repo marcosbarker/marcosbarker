@@ -4,9 +4,7 @@
 
 <a href="https://linktr.ee/marcos_barker">
 <img height="137px" src="https://readme-stats-marcosbarker.vercel.app/api?username=marcosbarker&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="137px" src="https://readme-stats-marcosbarker.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
-</a>
-
-</br></br>
+</a></br>
 <!--
 ![](https://komarev.com/ghpvc/?username=marcosbarker)
 -->
@@ -57,8 +55,9 @@ Windows                  16 hrs 52 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-
-<img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=9e4c98&line=00e658&point=df82f2&area=true&hide_border=true" />
+<a>
+  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
+</a>
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
@@ -88,4 +87,5 @@ Windows                  16 hrs 52 mins      ███████████�
 #9e4c98
 #00e658
 #df82f2
+#000000
 -->
