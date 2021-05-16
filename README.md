@@ -6,8 +6,9 @@
 <img height="137px" src="https://readme-stats-marcosbarker.vercel.app/api?username=marcosbarker&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="137px" src="https://readme-stats-marcosbarker.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
 </a>
 
-</br>
-</br>
+</br></br>
+
+![](https://komarev.com/ghpvc/?username=marcosbarker)
 
 [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)
 
@@ -74,3 +75,15 @@ Windows                  18 hrs 2 mins       ███████████�
 <a href="https://github.com/marcosbarker/netflix-simple-copy">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=netflix-simple-copy&bg_color=0,52fa5a,ffc64d,ffc64d&theme=graywhite" />
 </a>
+<!--
+#c64dff
+#3AFC55
+#52fa5a
+#ffc64d
+#3B93E6
+#4dfcff
+#ffffff
+#9e4c98
+#00e658
+#df82f2
+-->
