@@ -58,6 +58,12 @@ Windows                  31 hrs 11 mins      ███████████�
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
 </a>
+<a href="https://github.com/marcosbarker/barkerDexPokeAPI">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=barkerDexPokeAPI&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
+</a>  
+<a href="https://github.com/marcosbarker/javaPOO">  
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
+</a>
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
