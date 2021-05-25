@@ -16,22 +16,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-🌆 Daytime    248 commits    ████████░░░░░░░░░░░░░░░░░   34.98% 
-🌃 Evening    197 commits    ███████░░░░░░░░░░░░░░░░░░   27.79% 
-🌙 Night      168 commits    ██████░░░░░░░░░░░░░░░░░░░   23.7%
+🌞 Morning    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+🌆 Daytime    238 commits    ████████░░░░░░░░░░░░░░░░░   34.44% 
+🌃 Evening    196 commits    ███████░░░░░░░░░░░░░░░░░░   28.36% 
+🌙 Night      166 commits    ██████░░░░░░░░░░░░░░░░░░░   24.02%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
-Friday       177 commits    ██████░░░░░░░░░░░░░░░░░░░   24.96% 
-Saturday     60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Sunday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.51%
+Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+Tuesday      89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
+Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+Friday       168 commits    ██████░░░░░░░░░░░░░░░░░░░   24.31% 
+Saturday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+Sunday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05%
 
 ```
 
@@ -42,12 +42,12 @@ Sunday       110 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  51 hrs 36 mins      ██████████████████████░░░   91.26% 
-Word                     3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-Android Studio           1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+VS Code                  28 hrs 24 mins      █████████████████████░░░░   85.68% 
+Word                     3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Android Studio           1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 
 💻 Operating System: 
-Windows                  56 hrs 32 mins      █████████████████████████   100.0%
+Windows                  33 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -59,8 +59,8 @@ Windows                  56 hrs 32 mins      ███████████�
 <a href="https://github.com/marcosbarker/barkerDexPokeAPI">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=barkerDexPokeAPI&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
-<a href="https://github.com/marcosbarker/javaPOO">  
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
+<a href="https://github.com/marcosbarker/serratec.residencia">  
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
@@ -68,8 +68,8 @@ Windows                  56 hrs 32 mins      ███████████�
 <a href="https://github.com/marcosbarker/alura.imersaoDados">  
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDados&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" />
 </a>
-<a href="https://github.com/marcosbarker/serratec.residencia">
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" />
+<a href="https://github.com/marcosbarker/javaPOO">
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/NLW4-rocketpay">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
