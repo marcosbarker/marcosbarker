@@ -57,7 +57,7 @@ Windows                  61 hrs 31 mins      ███████████�
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=barkerDexPokeAPI&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
 
-<a href="https://github.com/marcosbarker/serratec.residencia">  
+<a href="https://github.com/marcosbarker/residencia.serratec">  
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
 </a>
 
