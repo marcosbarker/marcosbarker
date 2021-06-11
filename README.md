@@ -13,8 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://marcosbarker-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
-
 **I'm a Night 🦉** 
 
 ```text
