@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://marcosbarker-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -26,9 +28,9 @@
 
 ```text
 Monday       141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Tuesday      88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Tuesday      87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
 Wednesday    119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-Thursday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
 Friday       205 commits    ██████░░░░░░░░░░░░░░░░░░░   24.35% 
 Saturday     59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
 Sunday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85%
