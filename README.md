@@ -75,7 +75,7 @@ Linux                    1 hr 15 mins        █░░░░░░░░░░�
 <a href="https://github.com/marcosbarker/NLW4-rocketpay">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
 </a>
-<a href="https://github.com/marcosbarker/recreating.instagram.homepage">  
+<a href="https://github.com/marcosbarker/recreating.instagram-clone-homepage">  
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=instagram.homepage&bg_color=3B93E6,3B93E6,4dfcff,52fa5a&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/netflix-simple-copy">  
