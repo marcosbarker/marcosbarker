@@ -42,16 +42,16 @@ Sunday       165 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  29 hrs 1 min        █████████████████████████   100.0%
+VS Code                  24 hrs 44 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  16 hrs 52 mins      ██████████████░░░░░░░░░░░   58.14% 
-Linux                    12 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.86%
+Linux                    14 hrs 4 mins       ██████████████░░░░░░░░░░░   56.87% 
+Windows                  10 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   43.13%
 
 ```
 
 
- Last Updated on 05/07/2021
+ Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
