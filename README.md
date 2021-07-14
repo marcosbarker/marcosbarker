@@ -1,3 +1,4 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)    [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
 <p><img align="justify" src="assets/hello_world.png" alt="img hello world"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/marcos_barker) 
@@ -10,7 +11,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://marcosbarker-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)    [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
