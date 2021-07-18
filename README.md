@@ -64,7 +64,7 @@ Windows                  50 mins             ░░░░░░░░░░░�
 <a href="https://github.com/marcosbarker/barkerDexPokeAPI">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=barkerDexPokeAPI&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
-<a href="https://github.com/marcosbarker/residencia.serratec">  
+<a href="https://github.com/marcosbarker/serratec.residencia">  
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
