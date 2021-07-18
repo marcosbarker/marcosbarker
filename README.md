@@ -1,7 +1,12 @@
 <p><img align="center" src="assets/hello_world.png" alt="img hello world"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/marcos_barker)<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)    [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucasrmagalhaes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
+</a>
+
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)    [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
 <a href="https://linktr.ee/marcos_barker">
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=marcosbarker&hide=stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
 </a></br>
@@ -10,28 +15,28 @@
 <img height="100px" src="https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories">
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://marcosbarker-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://marcosbarker-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-🌆 Daytime    396 commits    ████████░░░░░░░░░░░░░░░░░   35.23% 
-🌃 Evening    364 commits    ████████░░░░░░░░░░░░░░░░░   32.38% 
-🌙 Night      232 commits    █████░░░░░░░░░░░░░░░░░░░░   20.64%
+🌞 Morning    131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+🌆 Daytime    377 commits    ████████░░░░░░░░░░░░░░░░░   34.27% 
+🌃 Evening    356 commits    ████████░░░░░░░░░░░░░░░░░   32.36% 
+🌙 Night      236 commits    █████░░░░░░░░░░░░░░░░░░░░   21.45%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       180 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
-Tuesday      123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Wednesday    164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-Thursday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-Friday       257 commits    █████░░░░░░░░░░░░░░░░░░░░   22.86% 
-Saturday     81 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
-Sunday       160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23%
+Monday       179 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
+Tuesday      114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+Wednesday    156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+Thursday     156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+Friday       251 commits    █████░░░░░░░░░░░░░░░░░░░░   22.82% 
+Saturday     79 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
+Sunday       165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 ```
 
@@ -42,15 +47,16 @@ Sunday       160 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  28 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  44 hrs 10 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    28 hrs 45 mins      █████████████████████████   100.0%
+Linux                    43 hrs 20 mins      ████████████████████████░   98.09% 
+Windows                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
 
 ```
 
 
- Last Updated on 18/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
@@ -59,13 +65,13 @@ Linux                    28 hrs 45 mins      ███████████�
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=barkerDexPokeAPI&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
 <a href="https://github.com/marcosbarker/residencia.serratec">  
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
 </a>
-<a href="https://github.com/marcosbarker/alura.imersaoReact-Alurakut">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoReact-Alurakut&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
+<a href="https://github.com/marcosbarker/alura.imersaoDev">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
 </a>  
-<a href="https://github.com/marcosbarker/alura.imersaoDados">  
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDados&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" />
+<a href="https://github.com/marcosbarker/alura.imersaoReact-Alurakut">  
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoReact-Alurakut&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" />
 </a>
 <a href="https://github.com/marcosbarker/javaPOO">
   <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" />
