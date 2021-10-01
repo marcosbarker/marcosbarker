@@ -95,4 +95,12 @@ Linux                    5 hrs 23 mins       ███████████�
 #00e658
 #df82f2
 #000000
+
+Spotify Recently Played README Generator
+Markdown code snippet:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker)
+For custom count (1 ≤ {count} ≤ 10):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count={count})
+For custom width (300 ≤ {width} ≤ 1000):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&width={width})
 -->
