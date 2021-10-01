@@ -106,11 +106,11 @@ Markdown code snippet:
 
 For custom count (1 ≤ {count} ≤ 10):
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count=1{count}10)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count=3<={count}<=10)
 
 For custom width (300 ≤ {width} ≤ 1000):
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&width=300<{width}<1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&width=450<={width}<=1000)
 
 
 
