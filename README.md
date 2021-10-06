@@ -46,15 +46,16 @@ Sunday       193 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Sublime Text             13 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 21 mins       ██████████████████████░░░   91.17% 
+Sublime Text             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.83%
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.0%
+Linux                    2 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
