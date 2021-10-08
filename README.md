@@ -14,7 +14,7 @@
  <img height="100px" src="https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories">
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
