@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker) <!--[<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/marcos_barker)<br>-->
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)    [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)    [![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    [![wakatime](https://wakatime.com/badge/user/bf89f39c-412c-49f3-aff6-6f6512e18f18.svg)](https://wakatime.com/@bf89f39c-412c-49f3-aff6-6f6512e18f18)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
 <a href="https://linktr.ee/marcos_barker">
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcosbarker&hide=stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&hide=PLpgSQL,jupyter%20notebook&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
 </a></br>
@@ -14,28 +14,28 @@
  <img height="100px" src="https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories">
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    228 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
-🌆 Daytime    532 commits    █████████░░░░░░░░░░░░░░░░   36.82% 
-🌃 Evening    434 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
-🌙 Night      251 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.37%
+🌞 Morning    228 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+🌆 Daytime    531 commits    █████████░░░░░░░░░░░░░░░░   36.98% 
+🌃 Evening    431 commits    ███████░░░░░░░░░░░░░░░░░░   30.01% 
+🌙 Night      246 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.13%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       219 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
-Tuesday      198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
-Wednesday    234 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Thursday     202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Friday       295 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
-Saturday     104 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
-Sunday       193 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
+Monday       219 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Tuesday      198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Wednesday    234 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Thursday     197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
+Friday       295 commits    █████░░░░░░░░░░░░░░░░░░░░   20.54% 
+Saturday     100 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+Sunday       193 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
 
 ```
 
@@ -46,15 +46,15 @@ Sunday       193 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.0%
+Linux                    16 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
