@@ -13,7 +13,7 @@
 
 
 <a href="https://linktr.ee/marcos_barker">
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcosbarker&hide=stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&hide=PLpgSQL,jupyter%20notebook&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
+<img height="125px" src="https://github-readme-stats.vercel.app/api?username=marcosbarker&hide=stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&hide=PLpgSQL,jupyter%20notebook&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
 </a></br>
 
 <div align="center">
