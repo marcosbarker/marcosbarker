@@ -20,11 +20,14 @@
   <img height="125px" src="https://github-readme-stats.vercel.app/api?username=marcosbarker&hide=stars&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=3AFC55&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbarker&hide_title=true&hide_border=true&hide=PLpgSQL,jupyter%20notebook&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
   </a></br>
 </div>
-<div align="center">
- <img height="100px" src="https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories">
-</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36)](https://git.io/streak-stats)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![trophy](https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories)
+
+<div align="center">
+  <img width="550" src="https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36">
+ </div>
+ <br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
