@@ -4,7 +4,22 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 -->
-
+<div align="center">
+  <p>
+    <h1>My cRyPtOs</h1>
+  </p>
+    <img height="50" src="assets/crypto/ADA.png"/>
+    <img height="50" src="assets/crypto/ALGO.png"/>
+    <img height="50" src="assets/crypto/CRO.png"/> 
+    <img height="50" src="assets/crypto/CSHIP.png"/>
+    <img height="50" src="assets/crypto/ELON.png"/>
+    <img height="50" src="assets/crypto/FTM.png"/>
+    <img height="50" src="assets/crypto/LINK.png"/>
+    <img height="50" src="assets/crypto/MATIC.png"/>
+    <img height="50" src="assets/crypto/SHIB.png"/>
+    <img height="50" src="assets/crypto/SOL.png"/>
+</div>
+<br>
 <div align="center">
   <a href="https://open.spotify.com/user/marcos_barker">
   <img src="https://novatorem-marcosbarker.vercel.app/api/spotify" /><br>
