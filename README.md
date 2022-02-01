@@ -6,22 +6,52 @@
 -->
 <div align="center">
   <p>
-    <h1>My cRyPtOs</h1>
+    <a href="https://coinmarketcap.com/">
+      <h1>My cRyPtOs</h1>
+    </a>
   </p>
-    <img height="50" src="assets/crypto/ADA.png"/>
-    <img height="50" src="assets/crypto/ALGO.png"/>
-    <img height="50" src="assets/crypto/BNB.png"/>
-    <img height="50" src="assets/crypto/CHRONOSOL.png"/>
-    <img height="50" src="assets/crypto/CRO.png"/> 
-    <img height="50" src="assets/crypto/CSHIP.png"/>
-    <img height="50" src="assets/crypto/CSHOP.png"/>
-    <img height="50" src="assets/crypto/ELON.png"/>
-    <img height="50" src="assets/crypto/FTM.png"/>
-    <img height="50" src="assets/crypto/LINK.png"/>
-    <img height="50" src="assets/crypto/MATIC.png"/>
-    <img height="50" src="assets/crypto/SHIB.png"/>
-    <img height="50" src="assets/crypto/SOL.png"/>
-    <img height="50" src="assets/crypto/USDT.png"/>
+    <a href="https://cardano.org/">
+      <img height="50" src="assets/crypto/ADA.png"/>
+    </a>
+    <a href="https://www.algorand.com/">
+      <img height="50" src="assets/crypto/ALGO.png"/>
+    </a>
+    <a href="https://www.binance.com/pt-BR">
+      <img height="50" src="assets/crypto/BNB.png"/>
+    </a>
+    <a href="https://chronosecosystem.com/">
+      <img height="50" src="assets/crypto/CHRONOSOL.png"/>
+    </a>
+    <a href="https://crypto.com/">
+      <img height="50" src="assets/crypto/CRO.png"/> 
+    </a>
+    <a href="https://www.cryptoships.club/">
+      <img height="50" src="assets/crypto/CSHIP.png"/>
+    </a>
+    <a href="https://coinshopp.io/pt/coinshopp-cshop/">
+      <img height="50" src="assets/crypto/CSHOP.png"/>
+    </a>
+    <a href="https://dogelonmars.com/">
+      <img height="50" src="assets/crypto/ELON.png"/>
+    </a>
+    <a href="https://fantom.foundation/">
+      <img height="50" src="assets/crypto/FTM.png"/>
+    </a>
+    <a href="https://chain.link/">
+      <img height="50" src="assets/crypto/LINK.png"/>
+    </a>
+    <a href="https://polygon.technology/">
+      <img height="50" src="assets/crypto/MATIC.png"/>
+    </a>
+    <a href="https://shibatoken.com/">
+      <img height="50" src="assets/crypto/SHIB.png"/>
+    </a>
+    <a href="https://solana.com/">
+      <img height="50" src="assets/crypto/SOL.png"/>
+    </a>
+    <a href="https://tether.to/en/">
+      <img height="50" src="assets/crypto/USDT.png"/>
+    </a>
 </div>
 <br>
 <div align="center">
