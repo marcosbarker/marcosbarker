@@ -10,8 +10,10 @@
   </p>
     <img height="50" src="assets/crypto/ADA.png"/>
     <img height="50" src="assets/crypto/ALGO.png"/>
+    <img height="50" src="assets/crypto/CHRONOSOL.png"/>
     <img height="50" src="assets/crypto/CRO.png"/> 
     <img height="50" src="assets/crypto/CSHIP.png"/>
+    <img height="50" src="assets/crypto/CSHOP.png"/>
     <img height="50" src="assets/crypto/ELON.png"/>
     <img height="50" src="assets/crypto/FTM.png"/>
     <img height="50" src="assets/crypto/LINK.png"/>
