@@ -10,6 +10,7 @@
   </p>
     <img height="50" src="assets/crypto/ADA.png"/>
     <img height="50" src="assets/crypto/ALGO.png"/>
+    <img height="50" src="assets/crypto/BNB.png"/>
     <img height="50" src="assets/crypto/CHRONOSOL.png"/>
     <img height="50" src="assets/crypto/CRO.png"/> 
     <img height="50" src="assets/crypto/CSHIP.png"/>
@@ -20,6 +21,7 @@
     <img height="50" src="assets/crypto/MATIC.png"/>
     <img height="50" src="assets/crypto/SHIB.png"/>
     <img height="50" src="assets/crypto/SOL.png"/>
+    <img height="50" src="assets/crypto/USDT.png"/>
 </div>
 <br>
 <div align="center">
