@@ -25,9 +25,11 @@
     <a href="https://crypto.com/">
       <img height="50" src="assets/crypto/CRO.png"/> 
     </a>
+ <!--
     <a href="https://www.cryptoships.club/">
       <img height="50" src="assets/crypto/CSHIP.png"/>
     </a>
+-->
     <a href="https://coinshopp.io/pt/coinshopp-cshop/">
       <img height="50" src="assets/crypto/CSHOP.png"/>
     </a>
