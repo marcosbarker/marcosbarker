@@ -1,3 +1,6 @@
+<div align="center">
+ <img src="assets/dioCampusExpert-banner.png" alt="img DIO Campus Expert">
+</div>
 <!--
 <div align="center">
  <img src="assets/hello_worldBackWhite.png" alt="img hello world">
