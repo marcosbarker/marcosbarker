@@ -1,5 +1,7 @@
 <div align="center">
- <img src="assets/dioCampusExpert-banner.png" alt="img DIO Campus Expert">
+ <a href="https://dio.me/sign-up?ref=64FGMY2B6E">
+  <img src="assets/dioCampusExpert-banner.png" alt="img DIO Campus Expert">
+ </a>
 </div>
 <!--
 <div align="center">
