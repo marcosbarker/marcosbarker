@@ -1,6 +1,6 @@
 <div align="center">
  <a href="https://dio.me/sign-up?ref=64FGMY2B6E">
-  <img src="assets/dioCampusExpert-banner.png" alt="img DIO Campus Expert">
+  <img src="assets/dioCampusExpert-mini-banner.png" alt="img DIO Campus Expert">
  </a>
 </div>
 <!--
