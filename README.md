@@ -1,6 +1,6 @@
 <div align="center">
  <a href="https://dio.me/sign-up?ref=64FGMY2B6E">
-  <img src="assets/dioCampusExpert-mini-banner.png" alt="img DIO Campus Expert">
+  <img src="assets/dioCampusExpert-mini-banner.png" loading="lazy" alt="img DIO Campus Expert">
  </a>
 </div>
 <!--
@@ -16,19 +16,19 @@
     </a>
   </p>
     <a href="https://cardano.org/">
-      <img height="50" src="assets/crypto/ADA.png"/>
+      <img height="50" src="assets/crypto/ADA.png" loading="lazy"/>
     </a>
     <a href="https://www.algorand.com/">
-      <img height="50" src="assets/crypto/ALGO.png"/>
+      <img height="50" src="assets/crypto/ALGO.png" loading="lazy"/>
     </a>
     <a href="https://www.binance.com/pt-BR">
-      <img height="50" src="assets/crypto/BNB.png"/>
+      <img height="50" src="assets/crypto/BNB.png" loading="lazy"/>
     </a>
     <a href="https://chronosecosystem.com/">
-      <img height="50" src="assets/crypto/CHRONOSOL.png"/>
+      <img height="50" src="assets/crypto/CHRONOSOL.png" loading="lazy"/>
     </a>
     <a href="https://crypto.com/">
-      <img height="50" src="assets/crypto/CRO.png"/> 
+      <img height="50" src="assets/crypto/CRO.png" loading="lazy"/> 
     </a>
  <!--
     <a href="https://www.cryptoships.club/">
@@ -36,35 +36,35 @@
     </a>
 -->
     <a href="https://coinshopp.io/pt/coinshopp-cshop/">
-      <img height="50" src="assets/crypto/CSHOP.png"/>
+      <img height="50" src="assets/crypto/CSHOP.png" loading="lazy"/>
     </a>
     <a href="https://dogelonmars.com/">
-      <img height="50" src="assets/crypto/ELON.png"/>
+      <img height="50" src="assets/crypto/ELON.png" loading="lazy"/>
     </a>
     <a href="https://fantom.foundation/">
-      <img height="50" src="assets/crypto/FTM.png"/>
+      <img height="50" src="assets/crypto/FTM.png" loading="lazy"/>
     </a>
     <a href="https://chain.link/">
-      <img height="50" src="assets/crypto/LINK.png"/>
+      <img height="50" src="assets/crypto/LINK.png" loading="lazy"/>
     </a>
     <a href="https://polygon.technology/">
-      <img height="50" src="assets/crypto/MATIC.png"/>
+      <img height="50" src="assets/crypto/MATIC.png" loading="lazy"/>
     </a>
     <a href="https://shibatoken.com/">
-      <img height="50" src="assets/crypto/SHIB.png"/>
+      <img height="50" src="assets/crypto/SHIB.png" loading="lazy"/>
     </a>
     <a href="https://solana.com/">
-      <img height="50" src="assets/crypto/SOL.png"/>
+      <img height="50" src="assets/crypto/SOL.png" loading="lazy"/>
     </a>
     <a href="https://tether.to/en/">
-      <img height="50" src="assets/crypto/USDT.png"/>
+      <img height="50" src="assets/crypto/USDT.png" loading="lazy"/>
     </a>
 </div>
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/marcos_barker">
-  <img src="https://novatorem-marcosbarker.vercel.app/api/spotify" /><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count=3<={count}<=10" />
+  <img src="https://novatorem-marcosbarker.vercel.app/api/spotify" loading="lazy"/><br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count=3<={count}<=10" loading="lazy"/>
 </div>
 <!--[<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/marcos_barker)<br>-->
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
@@ -83,11 +83,11 @@
 <!--https://github-readme-stats.vercel.app/-->
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=marcosbarker&theme=dracula&no-bg=false&no-frame=false&title=Commit&title=Issues&title=MultipleLang&title=PullRequest&title=Repositories" loading="lazy">
 </div>
 
 <div align="center">
-  <img width="550" src="https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36">
+  <img width="550" src="https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36" loading="lazy">
 </div>
 <br>
 
@@ -134,45 +134,45 @@ Windows                  48 mins             ███████████�
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <a>
-  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" />
+  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
 </a>
 <!--FIM GRAFICO-->
 <!--INICIO PINS STIYLE-->
 <a href="https://github.com/OsZeressemos/zeroCommerce">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=zeroCommerce&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=zeroCommerce&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/marcosbarker/serratec.residencia">  
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/alura.imersaoDev">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/marcosbarker/alura.imersaoReact-Alurakut">  
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoReact-Alurakut&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoReact-Alurakut&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/SUS-agendamento">
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=SUS-agendamento&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=SUS-agendamento&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/DecolaTech-Avanade">  
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=DecolaTech-Avanade&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=DecolaTech-Avanade&bg_color=0,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/instagram-clone-homepage">  
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=instagram-clone-homepage&bg_color=3B93E6,3B93E6,4dfcff,52fa5a&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=instagram-clone-homepage&bg_color=3B93E6,3B93E6,4dfcff,52fa5a&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/netflix-simple-copy">  
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=netflix-simple-copy&bg_color=0,52fa5a,ffc64d,ffc64d&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=netflix-simple-copy&bg_color=0,52fa5a,ffc64d,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/javaPOO">
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=javaPOO&bg_color=0,3B93E6,4dfcff,4dfcff,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/NLW4-rocketpay">  
-  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=0,52fa5a,ffc64d&theme=graywhite" />
+  <img href="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=NLW4-rocketpay&bg_color=0,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
 <a href="https://github.com/marcosbarker/Csharp-CFBcursos">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=Csharp-CFBcursos&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=Csharp-CFBcursos&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/marcosbarker/zeromonMarketPlace">  
-  <img height="140px"  src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=zeromonMarketPlace&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" />
+  <img height="140px"  src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=zeromonMarketPlace&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
 <!--FIM PINS STIYLE-->
 <!--
