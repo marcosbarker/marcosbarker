@@ -90,9 +90,8 @@
   <img width="550" src="https://github-readme-streak-stats.herokuapp.com?user=marcosbarker&theme=vue&hide_border=true&stroke=000000&ring=FF914C&fire=C254FF&currStreakNum=000000&sideNums=282A36&currStreakLabel=000000&sideLabels=000000&dates=282A36" loading="lazy">
 </div>
 <br>
-
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
 
