@@ -66,9 +66,11 @@
   <img src="https://novatorem-marcosbarker.vercel.app/api/spotify" loading="lazy"/><br>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count=3<={count}<=10" loading="lazy"/>
 </div>
+ 
 <!--[<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/marcos_barker)<br>-->
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-<br>
+
+ <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)    ![](https://komarev.com/ghpvc/?username=marcosbarker)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Waka Readme](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/waka-readme.yml)    [![wakatime](https://wakatime.com/badge/user/bf89f39c-412c-49f3-aff6-6f6512e18f18.svg)](https://wakatime.com/@bf89f39c-412c-49f3-aff6-6f6512e18f18)    ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67234%20lines%20of%20code-blue)
