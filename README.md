@@ -98,7 +98,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2051%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -137,7 +137,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2022 02:08:19 UTC
+ Last Updated on 01/09/2022 01:46:55 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <a>
