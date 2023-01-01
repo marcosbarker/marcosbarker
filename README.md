@@ -98,7 +98,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2048%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -129,16 +129,16 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Visual Studio            3 hrs 9 mins        ██████████████████████░░░   88.77% 
-VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.23%
+Visual Studio            4 hrs 19 mins       ███████████████████████░░   91.53% 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.0%
+Windows                  4 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/12/2022 01:07:03 UTC
+ Last Updated on 01/01/2023 01:19:32 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <a>
