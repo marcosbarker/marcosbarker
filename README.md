@@ -141,9 +141,11 @@ Windows                  10 hrs 1 min        ███████████�
  Last Updated on 06/01/2023 01:12:45 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
+<!--
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
 </a>
+-->
 <!--FIM GRAFICO-->
 <!--INICIO PINS STIYLE-->
 <a href="https://github.com/OsZeressemos/zeroCommerce">
