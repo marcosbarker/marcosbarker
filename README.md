@@ -130,15 +130,15 @@ Sunday          21 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 15/02/2023 01:15:53 UTC
+ Last Updated on 16/02/2023 01:14:44 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
