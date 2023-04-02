@@ -145,6 +145,12 @@ Windows                  2 hrs 9 mins        ███████████�
 -->
 <!--FIM GRAFICO-->
 <!--INICIO PINS STIYLE-->
+<a href="[https://github.com/OsZeressemos/zeroCommerce](https://github.com/marcosbarker/alura.imersaoJava.2023)">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoJava.2023&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+</a>
+<a href="[https://github.com/OsZeressemos/zeroCommerce](https://github.com/marcosbarker/alura.imersaoDev.2023)">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoDev.2023&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+</a>
 <a href="https://github.com/OsZeressemos/zeroCommerce">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=zeroCommerce&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
