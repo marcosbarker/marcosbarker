@@ -128,14 +128,14 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/06/2023 01:23:16 UTC
+ Last Updated on 25/06/2023 01:40:19 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
