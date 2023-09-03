@@ -99,7 +99,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2050%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -128,14 +128,14 @@ Sunday                   331 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/09/2023 00:55:24 UTC
+ Last Updated on 03/09/2023 01:00:26 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
