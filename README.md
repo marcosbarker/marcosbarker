@@ -9,6 +9,7 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://novatorem-marcosbarker.vercel.app/api/spotify)](https://open.spotify.com/user/marcos_barker)
 -->
+<!--
 <div align="center">
   <p>
     <a href="https://coinmarketcap.com/">
@@ -35,6 +36,7 @@
       <img height="50" src="assets/crypto/CSHIP.png"/>
     </a>
 -->
+<!--
     <a href="https://coinshopp.io/pt/coinshopp-cshop/">
       <img height="50" src="assets/crypto/CSHOP.png" loading="lazy"/>
     </a>
@@ -60,6 +62,7 @@
       <img height="50" src="assets/crypto/USDT.png" loading="lazy"/>
     </a>
 </div>
+-->
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/marcos_barker">
