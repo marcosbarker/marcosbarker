@@ -101,7 +101,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%206%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -130,15 +130,15 @@ Sunday                   331 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Visual Studio            10 hrs 2 mins       ███████████████████████░░   93.74 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Visual Studio            14 hrs 13 mins      ████████████████████████░   95.50 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/10/2023 00:59:28 UTC
+ Last Updated on 05/10/2023 00:59:09 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
