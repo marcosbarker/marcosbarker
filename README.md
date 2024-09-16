@@ -102,7 +102,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C424%20hrs%2027%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -138,7 +138,7 @@ Windows                  7 hrs 57 mins       ███████████�
 ```
 
 
- Last Updated on 15/09/2024 01:21:19 UTC
+ Last Updated on 16/09/2024 01:18:00 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
