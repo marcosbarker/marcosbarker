@@ -106,66 +106,8 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 Daytime                1000 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                629 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-🔥 Editors: 
-Visual Studio            5 hrs 25 mins       █████████████████████░░░░   83.77 % 
-VS Code                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Antigravity CLI          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-
-💻 Operating System: 
-Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 23 mins (67.73%)
-
-✍️ 13,514 lines written by AI, 2,862 lines written by hand (82.52% AI-written)
-
-🔤 420,357 Input Tokens, 3,162 Output Tokens
-
-💵 $1.31 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 21 AI Prompts
-
-Github-Copilot           13,464 lines        █████████████████████████   99.62 % 
-Gemini                   51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 82.52% of written lines came from AI
-📝 Concise Prompter — average 160 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.5% of changed lines were hand-edited
-```
-
-
- Last Updated on 02/08/2026 02:32:47 UTC
+ Last Updated on 03/08/2026 02:35:21 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
