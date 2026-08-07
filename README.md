@@ -102,70 +102,8 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%206%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                1013 commits        ██████████░░░░░░░░░░░░░░░   41.69 % 
-🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Friday                   466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-🔥 Editors: 
-Visual Studio            6 hrs 40 mins       ████████████████████░░░░░   81.39 % 
-VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Antigravity CLI          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-
-💻 Operating System: 
-Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 28 mins (66.8%)
-
-✍️ 13,543 lines written by AI, 2 lines written by hand (99.99% AI-written)
-
-🔤 445,596 Input Tokens, 3,399 Output Tokens
-
-💵 $1.39 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 23 AI Prompts
-
-Github-Copilot           13,493 lines        █████████████████████████   99.63 % 
-Gemini                   50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/08/2026 02:15:54 UTC
+ Last Updated on 07/08/2026 02:34:21 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
