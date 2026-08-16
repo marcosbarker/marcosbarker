@@ -102,28 +102,28 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C630%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C631%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                1013 commits        ██████████░░░░░░░░░░░░░░░   41.69 % 
-🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌞 Morning                373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌆 Daytime                1000 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
+🌃 Evening                629 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Friday                   466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Monday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 ```
 
 
@@ -133,37 +133,37 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Visual Studio            2 hrs 35 mins       ████████████████░░░░░░░░░   63.00 % 
-VS Code                  1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.00 % 
+Visual Studio            3 hrs 12 mins       ████████████████░░░░░░░░░   62.88 % 
+VS Code                  1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
 
 💻 Operating System: 
-Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (59.97%)
+⏱ AI Coding Time: 3 hrs 13 mins (63.0%)
 
-✍️ 99 lines written by AI, 40 lines written by hand (71.22% AI-written)
+✍️ 99 lines written by AI, 52 lines written by hand (65.56% AI-written)
 
-🔤 441,601 Input Tokens, 6,478 Output Tokens
+🔤 400,516 Input Tokens, 6,355 Output Tokens
 
-💵 $1.42 Estimated AI Cost This Week
+💵 $1.30 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
 Github-Copilot           99 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.22% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 34.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.56% of written lines came from AI
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 42.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 01:04:30 UTC
+ Last Updated on 16/08/2026 01:09:58 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
