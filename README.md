@@ -102,7 +102,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C640%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2040%20mins-blue?style=flat)
 
@@ -133,37 +133,37 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       ████████████████░░░░░░░░░   62.31 % 
-Visual Studio            2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
+Visual Studio            4 hrs 11 mins       █████████████░░░░░░░░░░░░   51.75 % 
+VS Code                  3 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.25 % 
 
 💻 Operating System: 
-Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (68.3%)
+⏱ AI Coding Time: 3 hrs 53 mins (48.16%)
 
-✍️ 950 lines written by AI, 15 lines written by hand (98.45% AI-written)
+✍️ 939 lines written by AI, 14 lines written by hand (98.53% AI-written)
 
-🔤 311,283 Input Tokens, 3,122 Output Tokens
+🔤 163,962 Input Tokens, 1,806 Output Tokens
 
-💵 $0.98 Estimated AI Cost This Week
+💵 $0.52 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 39 AI Prompts
+🧠 8 AI Sessions, 31 AI Prompts
 
-Github-Copilot           950 lines           █████████████████████████   100.00 % 
+Github-Copilot           939 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.45% of written lines came from AI
+🤖 AI-Driven — 98.53% of written lines came from AI
 📝 Concise Prompter — average 53 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.75% of changed lines were hand-edited
+🚀 High AI Trust — 3.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 01:11:27 UTC
+ Last Updated on 24/08/2026 01:09:02 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
