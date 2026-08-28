@@ -102,68 +102,12 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C644%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C652%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2045%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                1013 commits        ██████████░░░░░░░░░░░░░░░   41.69 % 
-🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Friday                   466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%205%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-🔥 Editors: 
-Visual Studio            7 hrs 19 mins       ███████████████████░░░░░░   74.80 % 
-VS Code                  2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-
-💻 Operating System: 
-Windows                  9 hrs 47 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 28 mins (15.15%)
-
-✍️ 2 lines written by AI, 3,539 lines written by hand (0.06% AI-written)
-
-🔤 45,564 Input Tokens, 894 Output Tokens
-
-💵 $0.15 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-Github-Copilot           2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.06% of written lines came from AI
-📝 Concise Prompter — average 66 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
-```
-
-
- Last Updated on 27/08/2026 07:11:27 UTC
+ Last Updated on 28/08/2026 08:58:47 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
