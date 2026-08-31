@@ -109,21 +109,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                1013 commits        ██████████░░░░░░░░░░░░░░░   41.69 % 
-🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌞 Morning                373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌆 Daytime                1000 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
+🌃 Evening                629 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Friday                   466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Monday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 ```
 
 
@@ -133,19 +133,19 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Visual Studio            13 hrs 58 mins      ███████████████░░░░░░░░░░   60.29 % 
-VS Code                  9 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+Visual Studio            13 hrs 46 mins      ███████████████░░░░░░░░░░   59.95 % 
+VS Code                  9 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
 
 💻 Operating System: 
-Windows                  23 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 52 mins (42.66%)
+⏱ AI Coding Time: 9 hrs 52 mins (43.02%)
 
-✍️ 931 lines written by AI, 3,712 lines written by hand (20.05% AI-written)
+✍️ 931 lines written by AI, 222 lines written by hand (80.75% AI-written)
 
 🔤 3,365,451 Input Tokens, 14,816 Output Tokens
 
@@ -156,14 +156,14 @@ Windows                  23 hrs 10 mins      ███████████�
 Github-Copilot           932 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.05% of written lines came from AI
+🤖 AI-Driven — 80.75% of written lines came from AI
 📄 Detailed Prompter — average 726 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 79.94% of changed lines were hand-edited
+🚀 High AI Trust — 19.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 03:31:41 UTC
+ Last Updated on 31/08/2026 03:31:18 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
