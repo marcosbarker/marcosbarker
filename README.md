@@ -133,37 +133,37 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        ████████████████░░░░░░░░░   65.00 % 
-Visual Studio            53 mins             █████████░░░░░░░░░░░░░░░░   35.00 % 
+VS Code                  1 hr 4 mins         ██████████████░░░░░░░░░░░   55.51 % 
+Visual Studio            51 mins             ███████████░░░░░░░░░░░░░░   44.49 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (49.96%)
+⏱ AI Coding Time: 46 mins (39.86%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
-🔤 333,433 Input Tokens, 10,735 Output Tokens
+🔤 205,880 Input Tokens, 4,418 Output Tokens
 
-💵 $1.16 Estimated AI Cost This Week
+💵 $0.68 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,155 characters per prompt
+📝 Concise Prompter — average 40 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 03:00:46 UTC
+ Last Updated on 11/09/2026 02:57:03 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
