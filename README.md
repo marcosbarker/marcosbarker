@@ -102,28 +102,28 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C662%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2018%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 Daytime                1000 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                629 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+🌆 Daytime                1013 commits        ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 ```
 
 
@@ -133,34 +133,37 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  53 mins             ██████████████████████░░░   89.74 % 
+Visual Studio            6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (89.4%)
+⏱ AI Coding Time: 25 mins (43.63%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 35,256 Input Tokens, 1,530 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.13 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,094 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 371 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 03:18:01 UTC
+ Last Updated on 17/09/2026 03:20:25 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
