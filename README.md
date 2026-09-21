@@ -106,8 +106,64 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2038%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 20/09/2026 03:18:33 UTC
+```text
+🌞 Morning                373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌆 Daytime                1000 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
+🌃 Evening                629 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+🔥 Editors: 
+Visual Studio            3 hrs 27 mins       ████████████████████░░░░░   81.77 % 
+VS Code                  46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+
+💻 Operating System: 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 32 mins (12.74%)
+
+✍️ 1 lines written by AI, 24 lines written by hand (4.0% AI-written)
+
+🔤 266,892 Input Tokens, 2,136 Output Tokens
+
+💵 $0.83 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 9 AI Prompts
+
+Github-Copilot           1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 4.0% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 96.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 21/09/2026 03:16:20 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
