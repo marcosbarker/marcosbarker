@@ -102,9 +102,9 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -133,17 +133,17 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Visual Studio            39 mins             ████████████████████░░░░░   79.79 % 
-VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+VS Code                  1 hr 11 mins        ████████████████░░░░░░░░░   64.80 % 
+Visual Studio            39 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (20.21%)
+⏱ AI Coding Time: 1 hr 11 mins (64.8%)
 
 ✍️ 15 lines written by AI, 52 lines written by hand (22.39% AI-written)
 
@@ -151,19 +151,19 @@ Windows                  49 mins             ███████████�
 
 💵 $0.14 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 Github-Copilot           15 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 22.39% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 77.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 04:04:46 UTC
+ Last Updated on 02/10/2026 04:01:10 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
