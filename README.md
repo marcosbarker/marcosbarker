@@ -66,8 +66,7 @@
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/marcos_barker">
-  <img src="https://novatorem-marcosbarker.vercel.app/api/spotify" loading="lazy"/><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcos_barker&count=3<={count}<=10" loading="lazy"/>
+  <img src=https://spotify-recently-played.jeffreyca.workers.dev/svg?user=marcos_barker&theme=radical&count=4&width=640&radius=20&album=1>
 </div>
  
 <!--[<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/marcos_barker)<br>-->
