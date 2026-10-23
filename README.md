@@ -101,28 +101,28 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C685%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                373 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-🌆 Daytime                1001 commits        ███████████░░░░░░░░░░░░░░   42.56 % 
-🌃 Evening                629 commits         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+🌆 Daytime                1014 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
+🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Tuesday                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Friday                   457 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Saturday                 234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   467 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -132,38 +132,39 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████░░░░░░░░░░░░   50.17 % 
-Visual Studio            9 mins              ████████████░░░░░░░░░░░░░   49.83 % 
+Codex Vscode             1 hr 3 mins         █████████████░░░░░░░░░░░░   52.21 % 
+VS Code                  29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Visual Studio            28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (35.3%)
+⏱ AI Coding Time: 1 hr 30 mins (74.35%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 47,479 Input Tokens, 876 Output Tokens
+🔤 103,563 Input Tokens, 3,387 Output Tokens
 
-💵 $0.41 Estimated AI Cost This Week
+💵 $0.42 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 36 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 03:15:15 UTC
+ Last Updated on 23/10/2026 03:19:16 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
