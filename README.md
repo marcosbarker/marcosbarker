@@ -105,8 +105,65 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%206%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 25/10/2026 03:09:23 UTC
+```text
+🌞 Morning                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+🌆 Daytime                1014 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
+🌃 Evening                647 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌙 Night                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   467 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Saturday                 237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+🔥 Editors: 
+Codex Vscode             3 hrs 6 mins        ███████████████░░░░░░░░░░   61.20 % 
+Visual Studio            1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+
+💻 Operating System: 
+Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 57 mins (77.97%)
+
+✍️ 697 lines written by AI, 104 lines written by hand (87.02% AI-written)
+
+🔤 481,837 Input Tokens, 71,618 Output Tokens
+
+💵 $2.50 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 33 AI Prompts
+
+GPT                      744 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.02% of written lines came from AI
+📝 Concise Prompter — average 136 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.69% of changed lines were hand-edited
+```
+
+
+ Last Updated on 26/10/2026 03:07:48 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
