@@ -132,26 +132,26 @@ Sunday                   353 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Codex Vscode             3 hrs 6 mins        █████████████░░░░░░░░░░░░   53.70 % 
-Visual Studio            1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-VS Code                  1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Codex Vscode             3 hrs 6 mins        ██████████████░░░░░░░░░░░   55.18 % 
+Visual Studio            1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+VS Code                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 
 💻 Operating System: 
-Windows                  5 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (72.12%)
+⏱ AI Coding Time: 4 hrs 4 mins (72.18%)
 
 ✍️ 697 lines written by AI, 106 lines written by hand (86.8% AI-written)
 
-🔤 697,337 Input Tokens, 73,458 Output Tokens
+🔤 649,858 Input Tokens, 72,582 Output Tokens
 
-💵 $3.76 Estimated AI Cost This Week
+💵 $3.73 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 37 AI Prompts
+🧠 7 AI Sessions, 35 AI Prompts
 
 GPT                      744 lines           █████████████████████████   100.00 % 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -159,13 +159,13 @@ Vscode                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 86.8% of written lines came from AI
-📝 Concise Prompter — average 134 characters per prompt
+📝 Concise Prompter — average 139 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 16.87% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 03:55:37 UTC
+ Last Updated on 29/10/2026 04:18:44 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
