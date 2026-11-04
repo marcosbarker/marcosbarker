@@ -8,11 +8,11 @@
 
 ### Servidores
 
-![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=Servidor%20HomeLab-0&upLabel=Online&downLabel=Offline)
-![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=Servidor%20HomeLab-1&upLabel=Online&downLabel=Offline)
-![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Servidor%20Self%20Hosting&upLabel=Online&downLabel=Offline)
+![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline)
+![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline)
+![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Self%20Hosting&upLabel=Online&downLabel=Offline)
 ![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline)
-![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Servidor%20Skynet&upLabel=Online&downLabel=Offline)
+![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline)
 
 ### Rede e DNS
 
@@ -24,8 +24,8 @@
 ### Aplicações e serviços
 ![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline)
 ![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline)
-![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=LXC%20Mealie&upLabel=Online&downLabel=Offline)
-![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=LXC%20Vaultwarden&upLabel=Online&downLabel=Offline)
+![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline)
+![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline)
 
 
 <!--
