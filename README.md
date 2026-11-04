@@ -3,6 +3,31 @@
   <img src="assets/altoEmGambiarra.webp" height=200" loading="lazy" alt="img Alto em Gambiarra">
  </a>
 </div>
+
+## 🏠 Status do meu Homelab
+
+### Servidores
+
+![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=Servidor%20HomeLab-0&upLabel=Online&downLabel=Offline)
+![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=Servidor%20HomeLab-1&upLabel=Online&downLabel=Offline)
+![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Servidor%20Self%20Hosting&upLabel=Online&downLabel=Offline)
+![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline)
+![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Servidor%20Skynet&upLabel=Online&downLabel=Offline)
+
+### Rede e DNS
+
+![Gateway](https://status.amararquitetura.com.br/api/badge/16/status?label=Gateway&upLabel=Online&downLabel=Offline)
+![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline)
+![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline)
+![Pihole-1](https://status.amararquitetura.com.br/api/badge/13/status?label=Pihole-1&upLabel=Online&downLabel=Offline)
+
+### Aplicações e serviços
+![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline)
+![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline)
+![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=LXC%20Mealie&upLabel=Online&downLabel=Offline)
+![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=LXC%20Vaultwarden&upLabel=Online&downLabel=Offline)
+
+
 <!--
 <div align="center">
  <img src="assets/hello_worldBackWhite.png" alt="img hello world">
