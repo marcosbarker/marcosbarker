@@ -23,6 +23,7 @@
 
 ### Aplicações e serviços
 ![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline)
+![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%Cooking&upLabel=Online&downLabel=Offline)
 ![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline)
 ![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline)
 ![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline)
