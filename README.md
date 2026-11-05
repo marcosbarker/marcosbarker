@@ -20,6 +20,9 @@
 ![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline)
 ![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline)
 ![Pihole-1](https://status.amararquitetura.com.br/api/badge/13/status?label=Pihole-1&upLabel=Online&downLabel=Offline)
+![Mesh-0](https://status.amararquitetura.com.br/api/badge/33/status?label=Mesh-0&upLabel=Online&downLabel=Offline)
+![Mesh-1](https://status.amararquitetura.com.br/api/badge/34/status?label=Mesh-1&upLabel=Online&downLabel=Offline)
+![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline)
 
 ### Aplicações e serviços
 ![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline)
