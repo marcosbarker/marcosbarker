@@ -25,7 +25,7 @@
 ![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline)
 
 ### Aplicações e serviços
-![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline)
+![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=2)
 ![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline)
 ![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline)
 ![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline)
