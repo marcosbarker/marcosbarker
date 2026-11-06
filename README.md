@@ -12,7 +12,7 @@
 ![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline)
 ![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Self%20Hosting&upLabel=Online&downLabel=Offline)
 ![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline)
-![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline)
+![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline&v=2)
 
 ### Rede e DNS
 
