@@ -1,46 +1,44 @@
-name: Atualizar badges do Homelab
-
-on:
-  schedule:
-    - cron: "7,22,37,52 * * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: atualizar-badges
-  cancel-in-progress: false
-
-jobs:
-  atualizar:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-
-      - name: Renovar URLs das badges
-        run: |
-          python3 <<'PY'
-          import re
-          import time
-          from pathlib import Path
-
-          arquivo = Path("README.md")
-          texto = arquivo.read_text(encoding="utf-8")
-          versao = str(int(time.time()))
+agora = datetime.now(ZoneInfo("America/Sao_Paulo"))
+          versao = str(int(agora.timestamp()))
+          padrao = r'https://status\.amararquitetura\.com\.br/api/badge/[^\s)"<>]+'
+          primeira_badge = re.search(padrao, texto)
+          if primeira_badge is None:
+              raise SystemExit("Nenhuma badge do Homelab encontrada no README.md")
 
           def atualizar(match):
               url = match.group(0)
-              url = re.sub(r"([?&])v=[^&]*", r"\1v=" + versao, url)
-              if not re.search(r"[?&]v=", url):
-                  url += ("&" if "?" in url else "?") + "v=" + versao
-              return url
+              parametro = r'([?&](?:amp;)?v=)[^&#]*'
+              if re.search(parametro, url):
+                  return re.sub(parametro, lambda m: m.group(1) + versao, url)
+              separador = "&amp;" if "&amp;" in url else "&"
+              return url + (separador if "?" in url else "?") + "v=" + versao
 
-          texto = re.sub(
-              r'https://status\.amararquitetura\.com\.br/api/badge/[^\s)"<>]+',
-              atualizar,
-              texto,
+          texto = re.sub(padrao, atualizar, texto)
+
+          # Mesmos minutos do cron acima; inclui a virada de hora e de dia.
+          proxima = agora.replace(second=0, microsecond=0) + timedelta(minutes=1)
+          while proxima.minute not in (7, 22, 37, 52):
+              proxima += timedelta(minutes=1)
+
+          inicio = "<!-- HOMELAB-UPDATE:START -->"
+          fim = "<!-- HOMELAB-UPDATE:END -->"
+          bloco = (
+              f"{inicio}\n"
+              f"🕒 Última atualização das URLs das badges: **{agora:%d/%m/%Y às %H:%M}**  \n"
+              f"🔄 Próxima atualização prevista: **{proxima:%d/%m/%Y às %H:%M}**  \n"
+              "⏱️ Intervalo: 15 minutos · Horário de Brasília · A execução pode atrasar.\n"
+              f"{fim}"
           )
+          if inicio in texto and fim in texto:
+              texto = re.sub(re.escape(inicio) + r'.*?' + re.escape(fim),
+                             lambda _: bloco, texto, count=1, flags=re.S)
+          elif inicio in texto or fim in texto:
+              raise SystemExit("Bloco de horários incompleto: confira os marcadores no README.")
+          else:
+              primeira_badge = re.search(padrao, texto)
+              posicao = texto.rfind("\n", 0, primeira_badge.start()) + 1
+              texto = texto[:posicao] + bloco + "\n\n" + texto[posicao:]
+
           arquivo.write_text(texto, encoding="utf-8")
           PY
 
@@ -50,6 +48,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Atualiza cache das badges"
-            git push
+            git commit -m "Atualiza badges e horários do Homelab"
+            git pull --rebase origin "${{ github.event.repository.default_branch }}"
+            git push origin "HEAD:${{ github.event.repository.default_branch }}"
           fi
