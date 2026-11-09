@@ -134,18 +134,24 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
+
 <!--START_SECTION:waka-->
 
  Last Updated on 09/11/2026 14:14:47 UTC
 <!--END_SECTION:waka-->
+
 <!--INICIO GRAFICO-->
+
 <!--
 <a>
   <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=marcosbarker&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
 </a>
 -->
+
 <!--FIM GRAFICO-->
+
 <!--INICIO PINS STIYLE-->
+
 <a href="https://github.com/marcosbarker/alura.imersaoJava.2023">
   <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=alura.imersaoJava.2023&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>
@@ -188,6 +194,7 @@
 <a href="https://github.com/marcosbarker/zeromonMarketPlace">  
   <img height="140px"  src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=zeromonMarketPlace&bg_color=0,3AFC55,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
 </a>
+
 <!--FIM PINS STIYLE-->
 <!--
 #c64dff
