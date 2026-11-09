@@ -56,9 +56,9 @@ jobs:
           fim = "<!-- HOMELAB-UPDATE:END -->"
           bloco = (
               f"{inicio}\n"
-              f"🕒 Última atualização das URLs das badges: **{agora:%d/%m/%Y às %H:%M}**  \n"
+              f"🕒 Última atualização das badges: **{agora:%d/%m/%Y às %H:%M}**  \n"
               f"🔄 Próxima atualização prevista: **{proxima:%d/%m/%Y às %H:%M}**  \n"
-              "⏱️ Intervalo: 15 minutos · Horário de Brasília · A execução pode atrasar.\n"
+              "⏱️ Intervalo: 15 minutos · Horário de Brasília.\n"
               f"{fim}"
           )
           if inicio in texto and fim in texto:
