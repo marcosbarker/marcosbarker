@@ -138,8 +138,73 @@
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C704%20hrs%2038%20mins-blue?style=flat)
 
- Last Updated on 09/11/2026 14:14:47 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2042%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+🌆 Daytime                1164 commits        ███████████░░░░░░░░░░░░░░   44.17 % 
+🌃 Evening                648 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌙 Night                  395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  452 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Thursday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Friday                   472 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Saturday                 267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Sunday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+🔥 Editors: 
+VS Code                  14 hrs 3 mins       ██████████████████████░░░   88.75 % 
+Codex Vscode             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Visual                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+💻 Operating System: 
+Windows                  15 hrs 50 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 21 mins (96.89%)
+
+✍️ 6 lines written by AI, 15 lines written by hand (28.57% AI-written)
+
+🔤 20,467,933 Input Tokens, 81,854 Output Tokens
+
+💵 $121.01 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 205 AI Prompts
+
+Qwen                     6 lines             █████████████████████████   100.00 % 
+Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 28.57% of written lines came from AI
+📝 Concise Prompter — average 392 characters per prompt
+🔁 Iterative Prompter — average 34 prompts per session
+🔍 Hands-On Reviewer — 85.71% of changed lines were hand-edited
+```
+
+
+ Last Updated on 09/11/2026 14:31:55 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
