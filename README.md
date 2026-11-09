@@ -135,12 +135,8 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2019%20mins-blue?style=flat)
-
-
- Last Updated on 01/11/2026 04:15:48 UTC
+ Last Updated on 09/11/2026 14:14:47 UTC
 <!--END_SECTION:waka-->
 <!--INICIO GRAFICO-->
 <!--
