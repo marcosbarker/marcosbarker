@@ -8,29 +8,35 @@
 
 ### Servidores
 
-![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline&v=1794231731)
-![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline&v=1794231731)
-![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Self%20Hosting&upLabel=Online&downLabel=Offline&v=1794231731)
-![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline&v=1794231731)
-![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline&v=1794231731)
+<!-- HOMELAB-UPDATE:START -->
+🕒 Última atualização das URLs das badges: **09/11/2026 às 10:50**  
+🔄 Próxima atualização prevista: **09/11/2026 às 10:52**  
+⏱️ Intervalo: 15 minutos · Horário de Brasília · A execução pode atrasar.
+<!-- HOMELAB-UPDATE:END -->
+
+![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline&v=1794232203)
+![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline&v=1794232203)
+![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Self%20Hosting&upLabel=Online&downLabel=Offline&v=1794232203)
+![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline&v=1794232203)
+![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline&v=1794232203)
 
 ### Rede e DNS
 
-![Gateway](https://status.amararquitetura.com.br/api/badge/16/status?label=Gateway&upLabel=Online&downLabel=Offline&v=1794231731)
-![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline&v=1794231731)
-![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline&v=1794231731)
-![Pihole-1](https://status.amararquitetura.com.br/api/badge/13/status?label=Pihole-1&upLabel=Online&downLabel=Offline&v=1794231731)
-![Mesh-0](https://status.amararquitetura.com.br/api/badge/33/status?label=Mesh-0&upLabel=Online&downLabel=Offline&v=1794231731)
-![Mesh-1](https://status.amararquitetura.com.br/api/badge/34/status?label=Mesh-1&upLabel=Online&downLabel=Offline&v=1794231731)
-![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline&v=1794231731)
+![Gateway](https://status.amararquitetura.com.br/api/badge/16/status?label=Gateway&upLabel=Online&downLabel=Offline&v=1794232203)
+![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline&v=1794232203)
+![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline&v=1794232203)
+![Pihole-1](https://status.amararquitetura.com.br/api/badge/13/status?label=Pihole-1&upLabel=Online&downLabel=Offline&v=1794232203)
+![Mesh-0](https://status.amararquitetura.com.br/api/badge/33/status?label=Mesh-0&upLabel=Online&downLabel=Offline&v=1794232203)
+![Mesh-1](https://status.amararquitetura.com.br/api/badge/34/status?label=Mesh-1&upLabel=Online&downLabel=Offline&v=1794232203)
+![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline&v=1794232203)
 
 ### Aplicações e serviços
-![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794231731)
-![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline&v=1794231731)
-![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline&v=1794231731)
-![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794231731)
-![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794231731)
-![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794231731)
+![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794232203)
+![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline&v=1794232203)
+![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline&v=1794232203)
+![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794232203)
+![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794232203)
+![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794232203)
 
 
 <!--
