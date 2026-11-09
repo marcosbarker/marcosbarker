@@ -23,7 +23,7 @@
 ![Gateway](https://status.amararquitetura.com.br/api/badge/16/status?label=Gateway&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline&v=1794232466)
-![Pihole-1](https://status.amararquitetura.com.br/api/badge/13/status?label=Pihole-1&upLabel=Online&downLabel=Offline&v=1794232466)
+![Pihole-1](https://status.amararquitetura.com.br/api/badge/25/status?label=Pihole-1&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Mesh-0](https://status.amararquitetura.com.br/api/badge/33/status?label=Mesh-0&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Mesh-1](https://status.amararquitetura.com.br/api/badge/34/status?label=Mesh-1&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline&v=1794232466)
@@ -32,7 +32,7 @@
 ![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794232466)
 ![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline&v=1794232466)
 ![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline&v=1794232466)
-![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/8/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794232466)
+![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/1/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794232466)
 ![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794232466)
 
