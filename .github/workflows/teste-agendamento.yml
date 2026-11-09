@@ -1,0 +1,18 @@
+name: Teste de agendamento
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Registrar disparo
+        run: |
+          echo "Evento: ${{ github.event_name }}"
+          date -u
