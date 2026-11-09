@@ -5,14 +5,12 @@
 </div>
 
 ## 🏠 Status do meu Homelab
-
-### Servidores
-
 <!-- HOMELAB-UPDATE:START -->
 🕒 Última atualização das URLs das badges: **09/11/2026 às 10:50**  
 🔄 Próxima atualização prevista: **09/11/2026 às 10:52**  
 ⏱️ Intervalo: 15 minutos · Horário de Brasília · A execução pode atrasar.
 <!-- HOMELAB-UPDATE:END -->
+### Servidores
 
 ![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline&v=1794232203)
 ![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline&v=1794232203)
