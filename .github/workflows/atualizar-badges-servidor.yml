@@ -2,7 +2,7 @@ name: Atualizar badges do Homelab
 
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "8,23,38,53 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -49,7 +49,7 @@ jobs:
 
           # Mesmos minutos do cron acima; inclui a virada de hora e de dia.
           proxima = agora.replace(second=0, microsecond=0) + timedelta(minutes=1)
-          while proxima.minute not in (7, 22, 37, 52):
+          while proxima.minute not in (8, 23, 38, 53):
               proxima += timedelta(minutes=1)
 
           inicio = "<!-- HOMELAB-UPDATE:START -->"
