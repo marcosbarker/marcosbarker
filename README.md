@@ -4,12 +4,14 @@
  </a>
 </div>
 
-## 🏠 Status do meu Homelab
+## 🏠 Status do meu Homelab 
 <!-- HOMELAB-UPDATE:START -->
 🕒 Última atualização das badges: **09/11/2026 às 23:22**  
 🔄 Próxima atualização prevista: **09/11/2026 às 23:23**  
 ⏱️ Intervalo: 15 minutos · Horário de Brasília.
 <!-- HOMELAB-UPDATE:END -->
+[![Atualizar badges do Homelab](https://github.com/marcosbarker/marcosbarker/actions/workflows/atualizar-badges-servidor.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/atualizar-badges-servidor.yml)
+
 ### Servidores
 
 ![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline&v=1794277336)
