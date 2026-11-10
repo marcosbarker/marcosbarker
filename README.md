@@ -32,12 +32,12 @@
 ![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline&v=1794305132)
 
 ### Aplicações e serviços
-![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794305132)
 ![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline&v=1794305132)
 ![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline&v=1794305132)
 ![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/1/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794305132)
 ![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794305132)
 ![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794305132)
+![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794305132)
 ![Sunshine](https://status.amararquitetura.com.br/api/badge/37/status?label=Sunshine&upLabel=Online&downLabel=Offline&v=1794305132)
 
 <!--
