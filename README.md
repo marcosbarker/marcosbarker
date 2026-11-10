@@ -38,7 +38,7 @@
 ![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/1/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794277336)
 ![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794277336)
 ![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794277336)
-
+![Sunshine](https://status.amararquitetura.com.br/api/badge/37/status?label=Sunshine&upLabel=Online&downLabel=Offline&v=1794277336)
 
 <!--
 <div align="center">
