@@ -141,9 +141,9 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2052%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -172,28 +172,28 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  16 hrs 24 mins      ████████████████████░░░░░   81.31 % 
-Visual Studio            1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Codex Vscode             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Visual                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  11 hrs 14 mins      ████████████████░░░░░░░░░   65.93 % 
+Visual Studio            4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Codex Vscode             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Visual                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  20 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 24 mins (86.26%)
+⏱ AI Coding Time: 12 hrs 23 mins (72.73%)
 
-✍️ 6 lines written by AI, 32 lines written by hand (15.79% AI-written)
+✍️ 6 lines written by AI, 4,109 lines written by hand (0.15% AI-written)
 
-🔤 30,362,403 Input Tokens, 113,578 Output Tokens
+🔤 20,057,812 Input Tokens, 76,603 Output Tokens
 
-💵 $179.82 Estimated AI Cost This Week
+💵 $117.92 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 242 AI Prompts
+🧠 7 AI Sessions, 153 AI Prompts
 
 Qwen                     6 lines             █████████████████████████   100.00 % 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -202,14 +202,14 @@ Visualstudio             0 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.79% of written lines came from AI
-📄 Detailed Prompter — average 1,349 characters per prompt
-🔁 Iterative Prompter — average 35 prompts per session
-🔍 Hands-On Reviewer — 94.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.15% of written lines came from AI
+📚 Verbose Prompter — average 1,881 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🔍 Hands-On Reviewer — 99.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/11/2026 04:38:42 UTC
+ Last Updated on 12/11/2026 05:42:27 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
