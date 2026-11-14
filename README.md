@@ -7,8 +7,8 @@
 ## 🏠 Status do meu Homelab 
 <!-- HOMELAB-UPDATE:START -->
 🕒 Última atualização das badges: **13/11/2026 às 22:39**  
-🔄 Próxima atualização prevista: **13/11/2026 às 22:53**  
-⏱️ Intervalo: 15 minutos · Horário de Brasília.
+<!--🔄 Próxima atualização prevista: **13/11/2026 às 22:53**  
+⏱️ Intervalo: 15 minutos · Horário de Brasília.-->
 <!-- HOMELAB-UPDATE:END -->
 [![Atualizar badges do Homelab](https://github.com/marcosbarker/marcosbarker/actions/workflows/atualizar-badges-servidor.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/atualizar-badges-servidor.yml)
 
