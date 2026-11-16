@@ -9,39 +9,39 @@
 
 ## 🏠 Status do meu Homelab 
 <!-- HOMELAB-UPDATE:START -->
-🕒 Última atualização das badges: **16/11/2026 às 00:00**  
-🔄 Próxima atualização prevista: **16/11/2026 às 00:08**  
+🕒 Última atualização das badges: **16/11/2026 às 07:58**  
+🔄 Próxima atualização prevista: **16/11/2026 às 08:08**  
 ⏱️ Intervalo: 15 minutos · Horário de Brasília.
 <!-- HOMELAB-UPDATE:END -->
 [![Atualizar badges do Homelab](https://github.com/marcosbarker/marcosbarker/actions/workflows/atualizar-badges-servidor.yml/badge.svg?branch=master)](https://github.com/marcosbarker/marcosbarker/actions/workflows/atualizar-badges-servidor.yml)
 
 ### Servidores
 
-![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline&v=1794798030)
-![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline&v=1794798030)
-![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Self%20Hosting&upLabel=Online&downLabel=Offline&v=1794798030)
-![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline&v=1794798030)
-![Gamer](https://status.amararquitetura.com.br/api/badge/36/status?label=Gamer&upLabel=Online&downLabel=Offline&v=1794798030)
-![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline&v=1794798030)
+![HomeLab-0](https://status.amararquitetura.com.br/api/badge/18/status?label=HomeLab-0&upLabel=Online&downLabel=Offline&v=1794826704)
+![HomeLab-1](https://status.amararquitetura.com.br/api/badge/21/status?label=HomeLab-1&upLabel=Online&downLabel=Offline&v=1794826704)
+![Self Hosting](https://status.amararquitetura.com.br/api/badge/4/status?label=Self%20Hosting&upLabel=Online&downLabel=Offline&v=1794826704)
+![IPMI Skynet](https://status.amararquitetura.com.br/api/badge/23/status?label=IPMI%20Skynet&upLabel=Online&downLabel=Offline&v=1794826704)
+![Gamer](https://status.amararquitetura.com.br/api/badge/36/status?label=Gamer&upLabel=Online&downLabel=Offline&v=1794826704)
+![Skynet](https://status.amararquitetura.com.br/api/badge/24/status?label=Skynet&upLabel=Online&downLabel=Offline&v=1794826704)
 
 ### Rede e DNS
 
-![Gateway](https://status.amararquitetura.com.br/api/badge/16/status?label=Gateway&upLabel=Online&downLabel=Offline&v=1794798030)
-![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline&v=1794798030)
-![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline&v=1794798030)
-![Pihole-1](https://status.amararquitetura.com.br/api/badge/25/status?label=Pihole-1&upLabel=Online&downLabel=Offline&v=1794798030)
-![Mesh-0](https://status.amararquitetura.com.br/api/badge/33/status?label=Mesh-0&upLabel=Online&downLabel=Offline&v=1794798030)
-![Mesh-1](https://status.amararquitetura.com.br/api/badge/34/status?label=Mesh-1&upLabel=Online&downLabel=Offline&v=1794798030)
-![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline&v=1794798030)
+![Gateway](https://status.amararquitetura.com.br/api/badge/16/status?label=Gateway&upLabel=Online&downLabel=Offline&v=1794826704)
+![Unbound](https://status.amararquitetura.com.br/api/badge/14/status?label=Unbound&upLabel=Online&downLabel=Offline&v=1794826704)
+![Pihole-0](https://status.amararquitetura.com.br/api/badge/11/status?label=Pihole-0&upLabel=Online&downLabel=Offline&v=1794826704)
+![Pihole-1](https://status.amararquitetura.com.br/api/badge/25/status?label=Pihole-1&upLabel=Online&downLabel=Offline&v=1794826704)
+![Mesh-0](https://status.amararquitetura.com.br/api/badge/33/status?label=Mesh-0&upLabel=Online&downLabel=Offline&v=1794826704)
+![Mesh-1](https://status.amararquitetura.com.br/api/badge/34/status?label=Mesh-1&upLabel=Online&downLabel=Offline&v=1794826704)
+![Mesh-2](https://status.amararquitetura.com.br/api/badge/35/status?label=Mesh-2&upLabel=Online&downLabel=Offline&v=1794826704)
 
 ### Aplicações e serviços
-![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline&v=1794798030)
-![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline&v=1794798030)
-![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/1/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794798030)
-![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794798030)
-![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794798030)
-![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794798030)
-![Sunshine](https://status.amararquitetura.com.br/api/badge/37/status?label=Sunshine&upLabel=Online&downLabel=Offline&v=1794798030)
+![LXC Web Server](https://status.amararquitetura.com.br/api/badge/3/status?label=LXC%20Web%20Server&upLabel=Online&downLabel=Offline&v=1794826704)
+![LXC Cooking](https://status.amararquitetura.com.br/api/badge/31/status?label=LXC%20Cooking&upLabel=Online&downLabel=Offline&v=1794826704)
+![Site Amar Arquitetura](https://status.amararquitetura.com.br/api/badge/1/status?label=Site%20Amar%20Arquitetura&upLabel=Online&downLabel=Offline&v=1794826704)
+![Melaie](https://status.amararquitetura.com.br/api/badge/22/status?label=Mealie&upLabel=Online&downLabel=Offline&v=1794826704)
+![Vaultwarden](https://status.amararquitetura.com.br/api/badge/12/status?label=Vaultwarden&upLabel=Online&downLabel=Offline&v=1794826704)
+![VM Skynet IA](https://status.amararquitetura.com.br/api/badge/32/status?label=VM%20IA%20Skynet&upLabel=Online&downLabel=Offline&v=1794826704)
+![Sunshine](https://status.amararquitetura.com.br/api/badge/37/status?label=Sunshine&upLabel=Online&downLabel=Offline&v=1794826704)
 
 <!--
 <div align="center">
