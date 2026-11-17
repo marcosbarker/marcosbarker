@@ -150,16 +150,16 @@
 
 ```text
 🌞 Morning                429 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-🌆 Daytime                1166 commits        ███████████░░░░░░░░░░░░░░   44.12 % 
-🌃 Evening                650 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌙 Night                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+🌆 Daytime                1167 commits        ███████████░░░░░░░░░░░░░░   44.14 % 
+🌃 Evening                650 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌙 Night                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   408 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Thursday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 Friday                   474 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 Saturday                 267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
@@ -173,19 +173,20 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  5 hrs 34 mins       ██████████████░░░░░░░░░░░   57.15 % 
-Visual Studio            4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  5 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.71 % 
+Visual Studio            4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
+Chrome                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (51.08%)
+⏱ AI Coding Time: 4 hrs 59 mins (44.44%)
 
 ✍️ 0 lines written by AI, 4,096 lines written by hand (0.0% AI-written)
 
@@ -207,7 +208,7 @@ Visualstudio             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/11/2026 04:41:42 UTC
+ Last Updated on 17/11/2026 06:28:20 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
