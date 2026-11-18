@@ -144,7 +144,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2011%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -173,42 +173,43 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  5 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.71 % 
-Visual Studio            4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
-Chrome                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.14 % 
+Chrome                   2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Visual Studio            2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Copilot                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (44.44%)
+⏱ AI Coding Time: 3 hrs 24 mins (38.31%)
 
-✍️ 0 lines written by AI, 4,096 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,079 lines written by hand (0.0% AI-written)
 
-🔤 16,186,368 Input Tokens, 58,277 Output Tokens
+🔤 6,561,123 Input Tokens, 63,830 Output Tokens
 
-💵 $95.43 Estimated AI Cost This Week
+💵 $54.46 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 75 AI Prompts
+🧠 5 AI Sessions, 39 AI Prompts
 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Visualstudio             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 8,065 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
+📚 Verbose Prompter — average 9,198 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/11/2026 06:28:20 UTC
+ Last Updated on 18/11/2026 05:52:04 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
