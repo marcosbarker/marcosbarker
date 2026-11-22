@@ -146,8 +146,68 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2025%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 21/11/2026 05:33:39 UTC
+```text
+🌞 Morning                429 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+🌆 Daytime                1167 commits        ███████████░░░░░░░░░░░░░░   44.14 % 
+🌃 Evening                650 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌙 Night                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Thursday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Friday                   474 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Saturday                 267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Sunday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+🔥 Editors: 
+Chrome                   18 hrs 46 mins      █████████████████░░░░░░░░   66.67 % 
+VS Code                  4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Visual Studio            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Copilot CLI              1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+
+💻 Operating System: 
+Windows                  28 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 27 mins (22.93%)
+
+✍️ 132 lines written by AI, 1 lines written by hand (99.25% AI-written)
+
+🔤 1,923,005 Input Tokens, 311,204 Output Tokens
+
+💵 $186.20 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 85 AI Prompts
+
+Sonnet                   132 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.25% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
+```
+
+
+ Last Updated on 22/11/2026 04:59:31 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
