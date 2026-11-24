@@ -173,20 +173,20 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Chrome                   18 hrs 46 mins      █████████████████░░░░░░░░   66.67 % 
-VS Code                  4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Visual Studio            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Copilot CLI              1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Chrome                   17 hrs 18 mins      ████████████████░░░░░░░░░   64.85 % 
+VS Code                  4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Visual Studio            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Copilot CLI              1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 💻 Operating System: 
-Windows                  28 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  26 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 27 mins (22.93%)
+⏱ AI Coding Time: 6 hrs 27 mins (24.18%)
 
 ✍️ 132 lines written by AI, 1 lines written by hand (99.25% AI-written)
 
@@ -207,7 +207,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/11/2026 05:41:27 UTC
+ Last Updated on 24/11/2026 08:19:26 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
