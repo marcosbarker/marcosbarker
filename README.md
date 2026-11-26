@@ -173,41 +173,41 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Chrome                   21 hrs 21 mins      █████████████████░░░░░░░░   67.47 % 
-VS Code                  4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Visual Studio            2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Copilot CLI              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Chrome                   26 hrs 17 mins      ███████████████████░░░░░░   75.11 % 
+VS Code                  4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Copilot CLI              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Visual Studio            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Windows                  31 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 34 mins (20.75%)
+⏱ AI Coding Time: 5 hrs 39 mins (16.16%)
 
-✍️ 148 lines written by AI, 3 lines written by hand (98.01% AI-written)
+✍️ 139 lines written by AI, 2 lines written by hand (98.58% AI-written)
 
-🔤 3,265,282 Input Tokens, 288,260 Output Tokens
+🔤 3,022,210 Input Tokens, 280,948 Output Tokens
 
-💵 $191.92 Estimated AI Cost This Week
+💵 $190.88 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 90 AI Prompts
+🧠 4 AI Sessions, 81 AI Prompts
 
-Sonnet                   156 lines           █████████████████████████   100.00 % 
+Sonnet                   147 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.01% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 7.69% of changed lines were hand-edited
+🤖 AI-Driven — 98.58% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 7.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/11/2026 06:56:02 UTC
+ Last Updated on 26/11/2026 06:47:35 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
