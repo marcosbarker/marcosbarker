@@ -173,41 +173,41 @@ Sunday                   369 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Chrome                   26 hrs 17 mins      ███████████████████░░░░░░   75.11 % 
-VS Code                  4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Copilot CLI              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Visual Studio            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Chrome                   33 hrs 36 mins      █████████████████████░░░░   83.47 % 
+VS Code                  3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Roblox Studio            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Copilot CLI              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Visual Studio            44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Windows                  34 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (16.16%)
+⏱ AI Coding Time: 3 hrs 54 mins (9.72%)
 
 ✍️ 139 lines written by AI, 2 lines written by hand (98.58% AI-written)
 
-🔤 3,022,210 Input Tokens, 280,948 Output Tokens
+🔤 2,703,989 Input Tokens, 208,889 Output Tokens
 
-💵 $190.88 Estimated AI Cost This Week
+💵 $177.59 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 81 AI Prompts
+🧠 3 AI Sessions, 42 AI Prompts
 
 Sonnet                   147 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.58% of written lines came from AI
-📝 Concise Prompter — average 280 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
+📝 Concise Prompter — average 363 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 7.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/11/2026 06:47:35 UTC
+ Last Updated on 27/11/2026 06:39:36 UTC
 <!--END_SECTION:waka-->
 
 <!--INICIO GRAFICO-->
